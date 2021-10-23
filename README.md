@@ -1,4 +1,4 @@
-LINK TO SEE THE WORKING APP : https://dazzling-franklin-4901bb.netlify.app/
+LINK TO SEE THE WORKING APP : https://react-weather-pj.netlify.app
 
 
 # Getting Started with Create React App
